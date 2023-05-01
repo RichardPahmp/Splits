@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = [
+    "splits-core",
+    "splits-cli",
+    "splits-serde",
+]
